@@ -28,6 +28,11 @@
 - [蓝奏云链接-mac版](https://jscs.lanzouw.com/iS5TO05mxw7a) 密码: 6ktc
 - [百度网盘链接](https://pan.baidu.com/s/1T5qZckKXSju0YaQAEt6Ypg?pwd=abhr) 提取码: abhr
 
+## 常见问题
+
+- 小部分 windows 系统无法正常完成软件安装，如无法安装，请先下载 https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8b8fc84f-b107-44f8-a1d0-db9e8fc1921d/MicrosoftEdgeWebView2RuntimeInstallerX64.exe
+- 如在Windows系统上无法正常使用，请尝试使用管理员权限运行或安装到非C盘目录下。
+
 ## 使用说明
 
 - 文档目录下每个文件夹对应一个印象笔记本。
