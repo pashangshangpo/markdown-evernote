@@ -23,10 +23,8 @@
 
 ## 软件下载
 
-- [奶牛快传链接](https://cowtransfer.com/s/691246890e664b) 口令: u7uqh5
-- [蓝奏云链接-windows版](https://jscs.lanzouw.com/i2MjS05mxx5e)
-- [蓝奏云链接-mac版](https://jscs.lanzouw.com/iS5TO05mxw7a) 密码: 6ktc
-- [百度网盘链接](https://pan.baidu.com/s/1T5qZckKXSju0YaQAEt6Ypg?pwd=abhr) 提取码: abhr
+- MacOS：https://jscs.lanzouw.com/iBGYN0a8ga4j
+- Windows：https://jscs.lanzouw.com/iXBdi0a8gaaf
 
 ## 常见问题
 
@@ -74,7 +72,5 @@
 
 ## 软件下载
 
-- [奶牛快传链接](https://cowtransfer.com/s/691246890e664b) 口令: u7uqh5
-- [蓝奏云链接-windows版](https://jscs.lanzouw.com/i2MjS05mxx5e)
-- [蓝奏云链接-mac版](https://jscs.lanzouw.com/iS5TO05mxw7a) 密码: 6ktc
-- [百度网盘链接](https://pan.baidu.com/s/1T5qZckKXSju0YaQAEt6Ypg?pwd=abhr)
+- MacOS：https://jscs.lanzouw.com/iBGYN0a8ga4j
+- Windows：https://jscs.lanzouw.com/iXBdi0a8gaaf
